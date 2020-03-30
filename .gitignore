@@ -1,0 +1,3 @@
+# Project exclude paths
+/kafka-streams/target/
+/target/
